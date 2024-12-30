@@ -1,0 +1,25 @@
+.container{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.links{
+    display: flex;
+align-items: center;
+gap: 20px;
+}
+
+.button{
+    padding:3px 5px;
+     background-color: #FDF7F4;
+     color: black;
+     border-radius: 5px;
+     cursor: pointer;
+}
